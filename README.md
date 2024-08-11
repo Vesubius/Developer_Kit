@@ -1,5 +1,5 @@
 # Developer Kit
-![App](assets/step1)
+![App](assets/step1.png)
 
 ## Descripción
 
