@@ -1,9 +1,14 @@
+## IMPORTANTE!!!!
+**Este programa aun esta incompleto**
+En una futura version se va a introducir la caracteristica necesaria para descargar el instalador desde la pagina oficial de cada web
+
 # Developer Kit
 ![App](assets/step1.PNG)
 
 ## Descripción
 
 **Developer Kit** es una aplicación de escritorio desarrollada en Python que facilita la instalación de los programas más utilizados por desarrolladores. Esta herramienta es especialmente útil para aquellos que frecuentemente cambian de ordenador y necesitan instalar de nuevo sus herramientas de desarrollo.
+
 
 ## Objetivo
 
